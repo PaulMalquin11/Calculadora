@@ -15,4 +15,5 @@ public class Numero {
             System.out.println("no es");
         }
     }
+    // Este metodo se puede simplificar
 }
